@@ -1,0 +1,2 @@
+# Requires: theoretical-waiting
+# (Not available on PyPI)
